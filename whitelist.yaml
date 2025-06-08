@@ -31,3 +31,18 @@
   - url: "*.surge.sh"
   - url: revoke.cash
   - url: nftplus.io
+# Whitelisting for various AI and Development tools being falsely flagged
+# Bolt.new - AI-powered web app builder (Installed as PWA)
+- url: "bolt.new"
+# Replit - Online IDE and development platform (Installed as PWA)
+- url: "replit.com"
+# Windsurf - AI Agent
+- url: "windsurf.ai"
+# Genspark - AI-powered search
+- url: "genspark.ai"
+# Manus AI - AI Agent
+- url: "manus.ai"
+# Node.js - JavaScript runtime environment official site
+- url: "nodejs.org"
+# Cursor - Standalone AI-powered code editor
+- url: "cursor.sh"
